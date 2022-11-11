@@ -13,7 +13,20 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </div>
-   
+   <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: adanrox@gmail.com">
+      <img width="30" src="imagem/gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCAp-arsId3U0nExXYWKGsrA">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/adanvq/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
   
     
     
