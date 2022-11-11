@@ -15,7 +15,7 @@
     </div>
    <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: adanrox@gmail.com">
-      <img width="30" src="![alt](egmail.png)">
+      <img width="30" src="![](gmail.svg)">
     </a>
     <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/">
       <img  width="25" src="![](linkedin1.webp)">
