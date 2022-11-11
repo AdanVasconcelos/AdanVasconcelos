@@ -15,16 +15,16 @@
     </div>
    <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: adanrox@gmail.com">
-      <img width="30" src="imagem/gmail.svg">
+      <img width="30" src="![emailim](imagem/egmail.png)">
     </a>
     <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="![linkd](imagem/linkedin1.webp)">
     </a>
     <a href = "https://www.youtube.com/channel/UCAp-arsId3U0nExXYWKGsrA">
-      <img width="35" src="youtube.svg">
+      <img width="35" src="![yout](imagem/youtube-2.webp)">
     </a>
     <a href = "https://www.instagram.com/adanvq/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="![instg](imagem/instagram-4.webp)">
     </a>
 </div>
   
