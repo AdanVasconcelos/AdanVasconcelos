@@ -18,7 +18,7 @@
       <img width="30" src="![emailim](imagem/egmail.png)">
     </a>
     <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/">
-      <img width="25" src="![linkd](imagem/linkedin1.webp)">
+      <img height="30" width="25"  src="![alt](imagem/linkedin1.webp)">
     </a>
     <a href = "https://www.youtube.com/channel/UCAp-arsId3U0nExXYWKGsrA">
       <img width="35" src="![yout](imagem/youtube-2.webp)">
