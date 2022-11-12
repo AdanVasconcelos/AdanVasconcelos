@@ -28,8 +28,7 @@
     </a>
 </div>
 
-<a href = "https://github.com/AdanVasconcelos/AdanVasconcelos/output/github-contribution-grid-snake.svg">
-</a>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
   
     
