@@ -14,18 +14,20 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </div>
    <h1 align="center">Social media</h1>
-    <a href = "mailto: adanrox@gmail.com" target="_blank" rel="external">
-      <img width="40" src="gmailimgwe.webp">
-    </a>
-    <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank" rel="external">
-      <img  width="40" src="linkedinwe.webp">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCAp-arsId3U0nExXYWKGsrA" target="_blank" rel="external">
-      <img width="40" src="youtest2.webp">
-    </a>
-    <a href = "https://www.instagram.com/adanvq/" target="_blank" rel="external">
-      <img width="40" src="instagramwe.webp">
-    </a>
+    <div margin: 10px>
+      <a href = "mailto: adanrox@gmail.com" target="_blank" rel="external">
+        <img width="35" src="gmailimgwe.webp">
+      </a>
+      <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank" rel="external">
+        <img  width="35" src="linkedinwe.webp">
+      </a>
+      <a href = "https://www.youtube.com/channel/UCAp-arsId3U0nExXYWKGsrA" target="_blank" rel="external">
+        <img width="35" src="youtest2.webp">
+      </a>
+      <a href = "https://www.instagram.com/adanvq/" target="_blank" rel="external">
+        <img width="35" src="instagramwe.webp">
+      </a>
+    </div>
 </div>
 
 ![Snake animation](https://github.com/AdanVasconcelos/AdanVasconcelos/blob/output/github-contribution-grid-snake.svg)
