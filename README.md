@@ -14,7 +14,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </div>
    <h1 align="center">Social media</h1>
-    <div margin: 10px>
+    <div margin: 30px>
       <a href = "mailto: adanrox@gmail.com" target="_blank" rel="external">
         <img width="35" src="gmailimgwe.webp">
       </a>
