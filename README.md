@@ -29,6 +29,8 @@
     </div>
 </div>
 
+![snake gif](https://github.com/AdanVasconcelos/AdanVasconcelos/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
