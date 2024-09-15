@@ -29,7 +29,9 @@
     </div>
 </div>
 
-![snake gif](https://github.com/AdanVasconcelos/AdanVasconcelos/blob/output/github-contribution-grid-snake.gif)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AdanVasconcelos/AdanVasconcelos/output/github-contribution-grid-snake-dark.svg" /> 
+
+
 
 
 
