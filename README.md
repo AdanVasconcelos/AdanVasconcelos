@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdanVasconcelos&color=yellow" alt="Profile views" /> </p>
 
 <div>
   
