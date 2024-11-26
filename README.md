@@ -3,7 +3,7 @@
 <div style="align="center">
   
   <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
-  <img align="right" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdanVasconcelos&theme=great-gatsby&hide_border=true"/>
+  <img align="right" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdanVasconcelos&theme=great-gatsby&hide_border=true"/>
   <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
 </div> 
   <div align="center" style="display: inline_block"><br>
@@ -40,7 +40,7 @@
      
  
 </div><br>
-
+   <p align="center"><strong>Projects</strong> </p>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AdanVasconcelos/AdanVasconcelos/output/github-contribution-grid-snake-dark.svg" /> 
 
 
