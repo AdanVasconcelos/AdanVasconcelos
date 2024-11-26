@@ -25,6 +25,7 @@
     
    <h1 align="center" >Contact</h1>
     <div align="center" ><br>
+<p>Open click in the new tab!</p>
       <a href = "mailto: adanrox@gmail.com" target="_blank" rel="external">
         <img width="55" src="https://img.icons8.com/?size=100&id=COXH7oTJANyS&format=png&color=000000">
       </a>
