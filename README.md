@@ -41,7 +41,8 @@
      
  
 </div><br>
-   <p align="center"><strong>Projects</strong> </p>
+   <p align="center"><strong>Projects
+below</strong> </p>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AdanVasconcelos/AdanVasconcelos/output/github-contribution-grid-snake-dark.svg" /> 
 
 
