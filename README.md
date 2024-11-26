@@ -3,7 +3,7 @@
 <div style="align="center">
   
   <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
- <a href="https://git.io/streak-stats"><img align="center" height="120em" src="https://streak-stats.demolab.com?user=AdanVasconcelos&theme=highcontrast&border_radius=5.5&locale=pt_BR&card_width=493" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" height="125em" src="https://streak-stats.demolab.com?user=AdanVasconcelos&theme=dayfox&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
 </div> 
   <div align="center" style="display: inline_block"><br>
