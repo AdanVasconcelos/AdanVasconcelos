@@ -17,8 +17,9 @@
     <img align="center" height="40" width="45" alt="js-icon"  src="https://img.icons8.com/?size=100&id=MjuloYXjXHYT&format=png&color=000000">
     <img align="center" height="40" width="45" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="45" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="45" alt="eua-icon" src="https://img.icons8.com/?size=100&id=15532&format=png&color=000000">
-    <img align="center" height="40" width="45" alt="lib-icon" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+    <img align="center" height="40" width="45" alt="ach-icon" src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000">
+    <img align="center" height="40" width="45" alt="job-icon" src="https://img.icons8.com/?size=100&id=13OTvPsoen5K&format=png&color=000000">
+    <img align="center" height="40" width="45" alt="lnx-icon" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
 
    </div>
  
