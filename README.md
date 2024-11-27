@@ -18,7 +18,7 @@
     <img align="center" height="40" width="45" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="45" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="45" alt="eua-icon" src="https://img.icons8.com/?size=100&id=15532&format=png&color=000000">
-    <img align="center" height="40" width="45" alt="lib-icon" src="https://img.icons8.com/?size=100&id=7On4gG8ilYsw&format=png&color=000000">
+    <img align="center" height="40" width="45" alt="lib-icon" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
 
    </div>
  
