@@ -16,9 +16,17 @@
 
 <!-- ESTATÍSTICAS -->
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdanVasconcelos&show_icons=true)"/>
+
   <img height="155em" src="https://streak-stats.demolab.com?user=AdanVasconcelos&theme=dayfox&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
+
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&show_owner=true&theme=great-gatsby" alt="Gist de Adan Vasconcelos"/>
+
+
+  
+
+
+
 </div>
 
 ---
