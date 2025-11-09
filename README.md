@@ -25,7 +25,7 @@
 
 <!-- TÍTULO DAS LINGUAGENS -->
 <h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color:#00FFFF; text-shadow: 2px 2px 8px #000;">
- 💻 Tecnologias que estou explorando
+ 💻 Tecnologias 
 </h1>
 
 <!-- LINGUAGENS EM ESCADA -->
@@ -34,56 +34,52 @@
   <!-- JAVA -->
   <div style="margin-bottom: 25px;">
     <img height="130" src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" alt="Java">
-    <p style="font-size:18px; font-weight:bold; color:#FFD700;">☕ Java — minha base sólida</p>
+    <p style="font-size:18px; font-weight:bold; color:#FFD700;">☕ Java — </p>
   </div>
 
   <!-- JAVASCRIPT -->
   <div style="margin-left: 8%; margin-bottom: 25px;">
     <img height="90" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript">
-    <p style="font-size:16px; color:#F0DB4F;">⚡ JavaScript — energia da web</p>
+    <p style="font-size:16px; color:#F0DB4F;">⚡ JavaScript — </p>
   </div>
 
   <!-- PYTHON -->
   <div style="margin-left: 16%; margin-bottom: 25px;">
-    <img height="65" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
-    <p style="font-size:15px; color:#4B8BBE;">🐍 Python — elegante e poderosa</p>
+    <img height="65" src=https://img.icons8.com/?size=100&id=7ppwYXBq88uY&format=png&color=000000" alt="Python">
+    <p style="font-size:15px; color:#4B8BBE;">🐍 Python — </p>
   </div>
 
   <!-- PHP -->
   <div style="margin-left: 24%; margin-bottom: 25px;">
-    <img height="45" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP">
-    <p style="font-size:14px; color:#8892BF;">🐘 PHP — o clássico que se reinventa</p>
+    <img height="45" src="https://img.icons8.com/?size=100&id=L8eSGkvyvD81&format=png&color=000000" alt="PHP">
+    <p style="font-size:14px; color:#8892BF;">🐘 PHP — </p>
   </div>
 
   <!-- MYSQL -->
   <div style="margin-left: 32%; margin-bottom: 25px;">
     <img height="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL">
-    <p style="font-size:13px; color:#F29111;">🧠 MySQL — onde os dados ganham vida</p>
+    <p style="font-size:13px; color:#F29111;">🧠 MySQL — </p>
   </div>
 
-  <!-- MONGODB -->
-  <div style="margin-left: 40%;">
-    <img height="35" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000" alt="MongoDB">
-    <p style="font-size:12px; color:#4DB33D;">🍃 MongoDB — flexível como eu</p>
-  </div>
+
 </div>
 
 ---
 
 <!-- CONTATO -->
 <h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; color:#87CEEB; text-shadow: 2px 2px 4px #000;">
- 📫 Vamos nos conectar!
+ 📫 Conectar!
 </h2>
 
 <div align="center">
   <p style="font-family:'Courier New', monospace; color:#fff;">Clique abaixo e diga um olá 😎</p>
 
   <a href="mailto:adanrox@gmail.com" target="_blank">
-    <img width="55" src="https://img.icons8.com/?size=100&id=pRezTnlZ3Oab&format=png&color=000000" alt="E-mail">
+    <img width="55" src="https://img.icons8.com/?size=100&id=eKlyMs0XteXZ&format=png&color=000000" alt="E-mail">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank">
-    <img width="55" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn">
+    <img width="55" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn">
   </a>
 </div>
 
