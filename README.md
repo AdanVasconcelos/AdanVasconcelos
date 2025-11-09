@@ -1,7 +1,23 @@
 <!-- VISUALIZAÇÕES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdanVasconcelos&color=yellow" alt="Profile views" />
+   <a href="">
+    <img width="70" src="https://img.icons8.com/?size=100&id=SO3Bl256brMv&format=png&color=000000" alt="LinkedIn">
+     
+  </a>
+  <a>
+     <img width="70" src="https://img.icons8.com/?size=100&id=CUKddy9KjB3z&format=png&color=000000" alt="LinkedIn">
+  </a>
+   <a>
+     <img width="70" src="https://img.icons8.com/?size=100&id=cfEnbvIz8ipJ&format=png&color=000000" alt="LinkedIn">
+  </a>
+  <a>
+     <img width="70" src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="LinkedIn">
+  </a>
+  
+  
 </p>
+
 
 <!-- CABEÇALHO ESTILOSO -->
 <h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color:#FFD700; text-shadow: 2px 2px 10px #000;">
@@ -41,11 +57,11 @@
 
 <!-- ICONS SIDE BY SIDE -->
 <div align="center" style="margin-top: 25px;">
-<img height="80" src="https://img.icons8.com/?size=100&id=2CZ4L7bKk5lE&format=png&color=000000" alt="Java" title="Java"/>
-  <img height="64" src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" alt="Java" title="Java"/>
+<img height="80" src="https://img.icons8.com/?size=100&id=2CZ4L7bKk5lE&format=png&color=000000" alt="Java" title="Git"/>
+  <img height="80" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" title="Java"/>
   <img height="56" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript" title="JavaScript"/>
-  <img height="52" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python"/>
-  <img height="48" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP"/>
+  <img height="52" src="https://img.icons8.com/?size=100&id=EiSwWOlH3ILY&format=png&color=000000" alt="Python" title="Python"/>
+  <img height="48" src="https://img.icons8.com/?size=100&id=121463&format=png&color=000000" alt="PHP" title="PHP"/>
   <img height="44" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" title="MySQL"/>
   <img height="40" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000" alt="MongoDB" title="MongoDB"/>
 
@@ -72,9 +88,7 @@
   <a href="https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank">
     <img width="60" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn">
   </a>
-  <a href="">
-    <img width="70" src="https://img.icons8.com/?size=100&id=SO3Bl256brMv&format=png&color=000000" alt="LinkedIn">
-  </a>
+ 
 
   
 </div>
