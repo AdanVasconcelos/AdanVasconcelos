@@ -1,59 +1,101 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdanVasconcelos&color=yellow" alt="Profile views" /> </p>
+<!-- VISUALIZAÇÕES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdanVasconcelos&color=yellow" alt="Profile views" />
+</p>
 
-<div style="align="center">
-  
-  <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
-<a href="https://git.io/streak-stats"><img align="center" height="125em" src="https://streak-stats.demolab.com?user=AdanVasconcelos&theme=dayfox&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
-</div> 
-  <div align="center" style="display: inline_block"><br>
-    <img align="center" height="100" alt="circleani" src="jpg.webp"><br>
-    <h1 align="center">Em estudo
-</h1><br>
-    <img align="center" height="40" width="45" alt="myslq-icon" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
-    <img align="center" height="40" width="45" alt="mdb-icon" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">       
-    <img align="center" height="40" width="45" alt="python-icon" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">    
-    <img align="center" height="40" width="45" alt="php-icon" src="https://www.php.net/images/logos/new-php-logo.svg">
-    <img align="center" height="40" width="45" alt="js-icon"  src="https://img.icons8.com/?size=100&id=MjuloYXjXHYT&format=png&color=000000">
-    <img align="center" height="40" width="45" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="40" width="45" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="45" alt="ach-icon" src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000">
-    <img align="center" height="40" width="45" alt="job-icon" src="https://img.icons8.com/?size=100&id=13OTvPsoen5K&format=png&color=000000">
-    <img align="center" height="40" width="45" alt="lnx-icon" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
+<!-- CABEÇALHO ESTILOSO -->
+<h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color:#FFD700; text-shadow: 2px 2px 10px #000;">
+  🚀 Hey! Eu sou o <span style="color:#00FFFF;">Adan Vasconcelos</span>
+</h1>
 
-   </div>
- 
-    
-   <h1 align="center" >Contact</h1>
-    <div align="center" ><br>
-<p>Open click in the new tab!</p>
-      <a href = "mailto: adanrox@gmail.com" target="_blank" rel="external">
-        <img width="55" src="https://img.icons8.com/?size=100&id=COXH7oTJANyS&format=png&color=000000">
-      </a>
-      <a href = "https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank" rel="external">
-        <img  width="55" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000">
-      </a>
-      <a href = "https://www.youtube.com/channel/UCAp-arsId3U0nExXYWKGsrA target="_blank rel= external">
-        <img width="55" src="https://img.icons8.com/?size=100&id=cs0F7pb81QnM&format=png&color=000000">
-      </a>
-   <a href = "https://lichess.org/@/Spanky1" target="_blank" rel="external">
-        <img width="55" src="https://img.icons8.com/?size=100&id=uC8JdUQvClt8&format=png&color=000000">
-      </a>
-     
- 
-</div><br>
-   <p align="center"><strong>Projects
-below</strong> </p>
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AdanVasconcelos/AdanVasconcelos/output/github-contribution-grid-snake-dark.svg" /> 
+<h3 align="center" style="font-family: 'Courier New', monospace; color:#FFFFFF;">
+  Desenvolvedor em constante evolução 🌱 | Apaixonado por código 💻 | Explorando o infinito da tecnologia 🌌
+</h3>
 
+---
 
+<!-- ESTATÍSTICAS -->
+<div align="center">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="155em" src="https://streak-stats.demolab.com?user=AdanVasconcelos&theme=dayfox&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanVasconcelos&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
+---
 
+<!-- TÍTULO DAS LINGUAGENS -->
+<h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; color:#00FFFF; text-shadow: 2px 2px 8px #000;">
+ 💻 Tecnologias que estou explorando
+</h1>
 
+<!-- LINGUAGENS EM ESCADA -->
+<div align="center" style="margin-left: 10%; font-family:'Verdana';">
 
+  <!-- JAVA -->
+  <div style="margin-bottom: 25px;">
+    <img height="130" src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" alt="Java">
+    <p style="font-size:18px; font-weight:bold; color:#FFD700;">☕ Java — minha base sólida</p>
+  </div>
 
-  
-    
-    
-    
-    
+  <!-- JAVASCRIPT -->
+  <div style="margin-left: 8%; margin-bottom: 25px;">
+    <img height="90" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript">
+    <p style="font-size:16px; color:#F0DB4F;">⚡ JavaScript — energia da web</p>
+  </div>
+
+  <!-- PYTHON -->
+  <div style="margin-left: 16%; margin-bottom: 25px;">
+    <img height="65" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
+    <p style="font-size:15px; color:#4B8BBE;">🐍 Python — elegante e poderosa</p>
+  </div>
+
+  <!-- PHP -->
+  <div style="margin-left: 24%; margin-bottom: 25px;">
+    <img height="45" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP">
+    <p style="font-size:14px; color:#8892BF;">🐘 PHP — o clássico que se reinventa</p>
+  </div>
+
+  <!-- MYSQL -->
+  <div style="margin-left: 32%; margin-bottom: 25px;">
+    <img height="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL">
+    <p style="font-size:13px; color:#F29111;">🧠 MySQL — onde os dados ganham vida</p>
+  </div>
+
+  <!-- MONGODB -->
+  <div style="margin-left: 40%;">
+    <img height="35" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000" alt="MongoDB">
+    <p style="font-size:12px; color:#4DB33D;">🍃 MongoDB — flexível como eu</p>
+  </div>
+</div>
+
+---
+
+<!-- CONTATO -->
+<h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; color:#87CEEB; text-shadow: 2px 2px 4px #000;">
+ 📫 Vamos nos conectar!
+</h2>
+
+<div align="center">
+  <p style="font-family:'Courier New', monospace; color:#fff;">Clique abaixo e diga um olá 😎</p>
+
+  <a href="mailto:adanrox@gmail.com" target="_blank">
+    <img width="55" src="https://img.icons8.com/?size=100&id=pRezTnlZ3Oab&format=png&color=000000" alt="E-mail">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank">
+    <img width="55" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+<!-- ANIMAÇÃO SNAKE -->
+<div align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AdanVasconcelos/AdanVasconcelos/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+<h4 align="center" style="font-family:'Courier New', monospace; color:#888;">
+  ✨ "Code. Learn. Evolve. Repeat." ✨
+</h4>
