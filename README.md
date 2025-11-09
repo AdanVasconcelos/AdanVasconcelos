@@ -72,6 +72,11 @@
   <a href="https://www.linkedin.com/in/adan-de-vasconcelos-queiroz-a71314231/" target="_blank">
     <img width="60" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn">
   </a>
+  <a href="">
+    <img width="70" src="https://img.icons8.com/?size=100&id=SO3Bl256brMv&format=png&color=000000" alt="LinkedIn">
+  </a>
+
+  
 </div>
 
 ---
