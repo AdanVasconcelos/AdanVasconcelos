@@ -8,7 +8,7 @@
 </div> 
   <div align="center" style="display: inline_block"><br>
     <img align="center" height="100" alt="circleani" src="jpg.webp"><br>
-    <h1 align="center">Currently studying
+    <h1 align="center">Em estudo
 </h1><br>
     <img align="center" height="40" width="45" alt="myslq-icon" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
     <img align="center" height="40" width="45" alt="mdb-icon" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">       
